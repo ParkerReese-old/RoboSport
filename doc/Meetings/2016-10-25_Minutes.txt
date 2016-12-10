@@ -1,0 +1,12 @@
+10/25/2016 - Minutes
+
+Start: 4:15pm
+End: 4:30pm
+People present: Parker R, Meagan R, Dylan M.
+
+-Reviewed our construction of the Design Document
+-Discussed the effectiveness of using Google Docs. We found it to be as useful tool.
+-We agree that the schedule we have for completing documents is effective. Having all the peices completed by friday to then combine on the weekend.
+-Discussed what our Coding Style document will entail. It is agreed that we will each seperatly research different coding styles, and then
+present our findings and suggestions to the group.
+-We discussed what the Testing Document will entail. There will be no further action on the Testing Document untill have the Coding Style document is complete.

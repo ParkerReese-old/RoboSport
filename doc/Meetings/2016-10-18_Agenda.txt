@@ -1,0 +1,8 @@
+Group A2
+
+
+-Make sure we all understand and know our created classes and method signatures for our system.
+
+-Discuss division of work. What needs to be done, as well as who wants to do it.
+
+-Any other thoughts, opinions, or concerns that did not get voiced?

@@ -1,0 +1,15 @@
+GUI Explanation of Setup Type Of Player - CPU Edition
+---------------------------------------- 
+<TO BE DONE WITH MOCKUP>
+
+GUI Explanation of Setup Type Of Player - HUMAN Player
+---------------------------------------
+This GUI popup box allows you to rename the team. This occurs after a game has been started.
+
+Features a text box that offers renaming.
+Ready Button to send name to game initializer's name grabber and continue onto next step. 
+
+
+GUI Explanation for Rules
+-------------------------
+When RULES are selected, a simple scrolling textbox appears that describes the game in plain text. 

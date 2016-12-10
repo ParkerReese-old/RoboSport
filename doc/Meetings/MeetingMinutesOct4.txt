@@ -1,0 +1,15 @@
+Meeting Minutes - October 4th, 2016. 
+------------------------------------
++ Adobe Photoshop / GIMP replaced MS Paint for Diagram explanations / drawing for more adjustable guidelines.
++ Going forward , google docs replace microsoft words for better collaboration, especially online.
++ Decided to create more group work sessions / long meetings as they proved very successful during crunch time for Assignment #1. More&&Earlier for best results. 
+
++ Splitting up to map out entities via photoshop and entitity descriptions.
++ Brady and Dylan on photoshop map, they also want to come in on entity description with Meagan and Parker.
+
++ Talked about limited knowledge of the design document
++ Talked about creating the new branch.
+
+Timeline: 
+Figure out architecture for Design Document ASAP.
+Assignment Due - October 23rd, 2016, 11:55pm.

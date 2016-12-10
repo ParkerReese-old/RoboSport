@@ -1,0 +1,22 @@
+GUI Explanation of "SetUp Amount of Players"
+----------------------------------------------------
+Once a game has been selected to start, the set # of players screen will pop up.
+
+The "Set # of Players" screen will allow the user to choose how many teams they'll play within the game, and which teams will be controlled by a human or CPU.
+
+The radial buttons at the top dictate the amount of teams within the game to be played. 
+The playable options are selected via radial buttons. The options are 2, 3 or 6 teams.
+
+Below this, an appropriate number of boxes depicting the teams are spawned. 
+If '2 Teams' radial button is selected, two team boxes will appear. 
+If '3 Teams' radial button is selected, three team boxes will appear. 
+If '6 Teams' radial button is checked, six team boxes will appear.
+
+Inside each team box will be two radial buttons, allowing the user to select HUMAN or CPU player.
+
+Lastly, a button at the bottom right will start the game, taking the input from the radial buttons into the game master initializer.
+
+Suggestions/Questions/Comments:
+<S> Can we grey out CPU boxes when not in use? 
+<Q> Does the start button call the "Setup Type Of Player" GUI Window? Or does double clicking the team box do it? 
+<Q> Is the Window Frame GUI based, does it warrant discussion? Should I mention the X, -, + and drop arrow buttons? 

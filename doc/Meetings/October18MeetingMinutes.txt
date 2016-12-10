@@ -1,0 +1,11 @@
+MEETING MINUTES OCT 18/2016
++ Switched over to MVC from event driven due to previous experience
++ Reviewed the MVC classes/entities and methods with TA.
++ Talked about Model/View/Controller UML on separate pages.
++ DIAGRAM / UML - DYLAN
++ SYSTEM DIAGRAM - (BY THOSE WHO FINISH FIRST) 
++ ENGLISH ENTITY DESCRIPTIONS - PARKER AND BRADY
++ ARCHITECTURE DEFENCE - MEAGAN
++ Make sure english paragraphs are
+
++ SATURDAY 10AM , 1030AM TO SHOVE DOCUMENT TOGETHER.

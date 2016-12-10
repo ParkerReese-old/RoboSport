@@ -1,0 +1,29 @@
+Meeting #3 for group on September 27th, 2016
+--------------------------------------------
+
+-	Keep a running document on Facebook Chat of completions, 
+	one person (likely on rotation) or group effort before 
+	classes to sum it up for potential standup meetings.
+
+- 	AI vs AI - Talked about the idea of a timed-turn 
+	'draw' termination condition. ie) after 50 moves. 
+	We'll fine tune this until it's reasonable. 
+
+- 	Since the actors/actions has been expanded, partners 
+	will come in to assist Reese after they're finished 
+	their respective jobs. 
+
+- 	Set a deadline for all individual work and documents(Friday),
+	a meeting has been set for Saturday so that we'll combine 
+	our individual work and smooth out the Requirments document that 
+	we'll hand in. Thursday meeting will be organized if needed.
+
+Timeline:
+-	Thursday, possible group meeting.
+
+-	Friday 10pm, all finished work committed and complete.
+
+-	Saturday group meeting starting at noon until required 
+	completion time to smooth out the document.
+
+-	Assignment due Date : Sunday, 11:55pm.

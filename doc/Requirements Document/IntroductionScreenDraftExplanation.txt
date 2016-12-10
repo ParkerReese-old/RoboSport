@@ -1,0 +1,9 @@
+INTRODUCTION SCREEN
+-------------------
+> PLAY
+> RULES
+> STATS (Nice to have?? Prints off JSON)
+> MANAGE ROBOTS -> NEW GUI: Retire, Revise, Register ->TAKES TO BOX WHERE WE CAN ADD TO ROBOT LIBRARY. Updates stats with use.
+
+Credits listed at bottom <Nice to have>
+

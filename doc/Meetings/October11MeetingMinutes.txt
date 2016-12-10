@@ -1,0 +1,5 @@
+Meeting with TA - October 11th, 2016. 
++ User Driven Event architecture. (Described in detail, defend why we chose the specific architecture.)
++ First Architecture, then UML Diagrams (?)
++ How classes are interacting with each other.
++ No final decisions with absence of Dylan, but leaning toward event driven architecture. Fits really well with old material in req's document.  Design classes around that.
